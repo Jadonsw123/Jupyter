@@ -34,3 +34,8 @@ Many of our columns has missing values. For example, "Class," which we chose to 
 ![Class Data](./images/missing_class.png)
 
 ### Data Visualization
+
+
+Age Graph
+
+![Class Data](./images/age.png)
