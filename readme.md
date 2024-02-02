@@ -27,3 +27,11 @@ We have a large dataset with 42 variables. Therefore, we have decided to narrow 
 | income_above_limit   |  Categorical (object)  | Is the person above or below 50,000
 
 #### Data Quality
+
+Entries that are missing: Class
+
+
+
+
+
+### Data Visualization
