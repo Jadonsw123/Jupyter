@@ -12,7 +12,7 @@ Data Types
 
 We have a large dataset with 42 variables. Therefore, we have decided to narrow down to 10 specific data sets that our team finds valuable along wih its corresponding data variable
 
-| Variable    | Savings | Description | 
+| Variable    | Data Type | Description | 
 | -------- | ------- | ------- |
 | Age  |  Integer   | The age of the individual | 
 | Gender |  Categorical    | If they are male or female
@@ -20,5 +20,5 @@ We have a large dataset with 42 variables. Therefore, we have decided to narrow 
 | Race   |  Categorical   | White, Black, Asian or Pacific Islander, American Indian, Other
 | Employment Commitment    |  Categorical   | This is the employment Status of the indivudal: Children or Amred Forces, Full-time schedules, Not in labor force, PT for non-econ reasons usually FT, Umeployed full-time, 
 | Citizenship    |  Categorical   | What is citizenship status in regards to the United States: Native, Foreign born - Not a citizen of US, Foreign born - US citizen by naturalization, Native - Born abroad of American Parents, Native - Born in Puerto Rice or US Outlying
-| Wage per hour    |  Float   | How much they make per hour
-| Working_week_per_year   |  Number   | How many weeks per year they work (0- 52)
+| Wage per hour    |  Integer   | How much they make per hour
+| Working_week_per_year   |  Integer   | How many weeks per year they work (0- 52)
