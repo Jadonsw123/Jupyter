@@ -18,6 +18,7 @@ We have a large dataset with 42 variables. Therefore, we have decided to narrow 
 | Age  |  Integer   | The age of the individual | 
 | Gender |  Categorical    | If they are male or female
 | Education    |  Categorical   | What level of education they are in: high school, children, some college but no degree, bachelors degree(BA, AB, BS), 7th and 8th grade
+| Class   |  Categorical   | This is type of of employment of the individual, which includes private, Self-employed-not incorportated, Local government, State government, Self-employed-incorporated, etc
 | Race   |  Categorical   | White, Black, Asian or Pacific Islander, American Indian, Other
 | Employment Commitment    |  Categorical   | This is the employment Status of the individual: Children or Amred Forces, Full-time schedules, Not in labor force, PT for non-econ reasons usually FT, Umeployed full-time, 
 | Citizenship    |  Categorical   | What is citizenship status in regards to the United States: Native, Foreign born - Not a citizen of US, Foreign born - US citizen by naturalization, Native - Born abroad of American Parents, Native - Born in Puerto Rice or US Outlying
