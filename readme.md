@@ -19,7 +19,6 @@ We have a large dataset with 42 variables. Therefore, we have decided to narrow 
 | Gender |  Categorical (object)(object)    | If they are male or female
 | Education    |  Categorical (object)   | What level of education they are in: high school, children, some college but no degree, bachelors degree(BA, AB, BS), 7th and 8th grade
 | Class   |  Categorical (object)  | This is type of of employment of the individual, which includes private, Self-employed-not incorportated, Local government, State government, Self-employed-incorporated, etc
-| Race   |  Categorical (object)  | White, Black, Asian or Pacific Islander, American Indian, Other
 | Employment Commitment    |  Categorical (object)  | This is the employment Status of the individual: Children or Amred Forces, Full-time schedules, Not in labor force, PT for non-econ reasons usually FT, Umeployed full-time, 
 | Citizenship    |  Categorical (object)  | What is citizenship status in regards to the United States: Native, Foreign born - Not a citizen of US, Foreign born - US citizen by naturalization, Native - Born abroad of American Parents, Native - Born in Puerto Rice or US Outlying
 | Wage per hour    |  Integer (int64)  | How much they make per hour
