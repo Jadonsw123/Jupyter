@@ -27,9 +27,9 @@ We have a large dataset with 42 variables. Therefore, we have decided to narrow 
 
 #### Data Quality
 
-Entries that are missing: Class
+Entries chosen that are missing data: Class
 
-
+Many of our columns has missing values. For example, "Class," which we chose to include in our analysis, has only 50% non-null values (104254 out of 209499) meaning there are 105245 values that are null. These quality issues exists because some people don't want to include their class when filling out surveys. We deal with this by eliminating all of these rows that don't have class, because 50% is too much to impute. We could have tried to use nearest neighbor imputation or split-combine-impute, but this would likely skew the results. Many other columns had similar issues, but we decided that they had little impact on the income predictor and so decided to eliminate the entire columns and to choose the 9 most likely to influence the income.
 
 
 
