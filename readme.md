@@ -24,5 +24,6 @@ We have a large dataset with 42 variables. Therefore, we have decided to narrow 
 | Citizenship    |  Categorical   | What is citizenship status in regards to the United States: Native, Foreign born - Not a citizen of US, Foreign born - US citizen by naturalization, Native - Born abroad of American Parents, Native - Born in Puerto Rice or US Outlying
 | Wage per hour    |  Integer   | How much they make per hour
 | Working_week_per_year   |  Integer   | How many weeks per year they work (0- 52)
+| income_above_limit   |  Categorical   | Is the person above or below 50,000
 
 #### Data Quality
