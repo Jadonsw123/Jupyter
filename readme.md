@@ -8,9 +8,10 @@ The purpose of the Income Prediction DataSet provided by Zindi is to analyze and
 
 ### Data Understanding
 
-Data Types
+#### Data Types
 
 We have a large dataset with 42 variables. Therefore, we have decided to narrow down to 10 specific data sets that our team finds valuable along wih its corresponding data variable
+
 
 | Variable    | Data Type | Description | 
 | -------- | ------- | ------- |
@@ -18,7 +19,9 @@ We have a large dataset with 42 variables. Therefore, we have decided to narrow 
 | Gender |  Categorical    | If they are male or female
 | Education    |  Categorical   | What level of education they are in: high school, children, some college but no degree, bachelors degree(BA, AB, BS), 7th and 8th grade
 | Race   |  Categorical   | White, Black, Asian or Pacific Islander, American Indian, Other
-| Employment Commitment    |  Categorical   | This is the employment Status of the indivudal: Children or Amred Forces, Full-time schedules, Not in labor force, PT for non-econ reasons usually FT, Umeployed full-time, 
+| Employment Commitment    |  Categorical   | This is the employment Status of the individual: Children or Amred Forces, Full-time schedules, Not in labor force, PT for non-econ reasons usually FT, Umeployed full-time, 
 | Citizenship    |  Categorical   | What is citizenship status in regards to the United States: Native, Foreign born - Not a citizen of US, Foreign born - US citizen by naturalization, Native - Born abroad of American Parents, Native - Born in Puerto Rice or US Outlying
 | Wage per hour    |  Integer   | How much they make per hour
 | Working_week_per_year   |  Integer   | How many weeks per year they work (0- 52)
+
+#### Data Quality
