@@ -34,7 +34,9 @@ Many of our columns has missing values. For example, "Class," which we chose to 
 ![Class Data](./images/missing_class.png)
 
 ### Data Visualization
-
+[2 points] Visualize basic feature distributions. That is, plot the dynamic range and exploratory distribution plots (like boxplots, histograms, kernel density estimation) to better understand the data. Describe anything meaningful or potentially useful you discover from these visualizations. These may also help to understand what data is missing or needs imputation. Note: You can also use data from other sources to bolster visualizations. Visualize at least five plots, at least one categorical. 
+We explored the Wage rate by education and by class. We noticed that some things don't match up with our data, which led us to dig into the data more (for example, Wage rate by class led to self-employed people all having 0 dollars per hour marked down). This led to the discovery that many people put down 0 for the wage rate if they weren't paid hourly, leading to the graphs being skewed. This made us reconsider using the wage rate for the final graphs without at least firt imputing data.
+[2.5 points] Ask three interesting questions that are relevant to your dataset and explore visuals that help answer these questions. Use whichever visualization method is appropriate for your data.  Important: Interpret the implications for each visualization. 
 
 Age Graph
 
